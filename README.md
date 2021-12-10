@@ -67,14 +67,28 @@ However, to give an idea of the possible range of values for the arguments, we s
 ## How to cite us?
 Please cite our publication by using the following bibtex entry:
 
+
 ```bibtex
-@article{La Rocca2020,
-author = "Raphaël La Rocca and Christopher Kune and Mathieu Tiquet and Lachlan Stuart and Theodore Alexandrov and Edwin De Pauw and Loïc Quinton",
-title = "{Using Biological Signals for Mass Recalibration of Mass Spectrometry Imaging Data}",
-year = "2020",
-month = "9",
-url = "https://chemrxiv.org/articles/preprint/Using_Biological_Signals_for_Mass_Recalibration_of_Mass_Spectrometry_Imaging_Data/12901679",
-doi = "10.26434/chemrxiv.12901679.v1"
+@article{doi:10.1021/acs.analchem.0c05071,
+author = {La Rocca, Raphaël and Kune, Christopher and Tiquet, Mathieu and Stuart, Lachlan and Eppe, Gauthier and Alexandrov, Theodore and De Pauw, Edwin and Quinton, Loïc},
+title = {Adaptive Pixel Mass Recalibration for Mass Spectrometry Imaging Based on Locally Endogenous Biological Signals},
+journal = {Analytical Chemistry},
+volume = {93},
+number = {8},
+pages = {4066-4074},
+year = {2021},
+doi = {10.1021/acs.analchem.0c05071},
+    note ={PMID: 33583182},
+
+URL = { 
+        https://doi.org/10.1021/acs.analchem.0c05071
+    
+},
+eprint = { 
+        https://doi.org/10.1021/acs.analchem.0c05071
+    
+}
+
 }
 ```
 
